@@ -1,4 +1,4 @@
 # FirstgitDemo
 Learning basic of git
 <br>
-With Apnacollege.
+With Apna college.
